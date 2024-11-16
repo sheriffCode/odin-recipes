@@ -16,5 +16,6 @@ One additional task is to deploy the website from GitHub.
 
 ## Update
 Added a stylesheet to all pages as well as some styles. All content is now contained so that the line length is not to long for comfortable reading.
-All content is now in the middle of the browser window as well.
-Images are responsive, too.
+All content is now in the middle of the browser window as well. Images are responsive, too.
+
+Important note, make sure you have a meta viewport tag set up correctly if you want the page to be responsive on mobile devices.
