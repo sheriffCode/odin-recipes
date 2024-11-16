@@ -14,3 +14,7 @@ This is the first hands on project in The Odin Project. The objective of the pro
 
 One additional task is to deploy the website from GitHub.
 
+## Update
+Added a stylesheet to all pages as well as some styles. All content is now contained so that the line length is not to long for comfortable reading.
+All content is now in the middle of the browser window as well.
+Images are responsive, too.
