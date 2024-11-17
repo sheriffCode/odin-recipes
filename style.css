@@ -12,14 +12,36 @@ html {
 
 h1 {
     text-align: center;
-    font-size: 2.5rem;
+    font-size: 3rem;
+}
+
+.nav {
+    padding-left: 0px;
+    margin-top: 4em;
 }
 
 .nav-item {
     list-style-type: none;
     font-size: 1.25rem;
+    background-color: #E9AE23;
+    padding: 0.5em 1.5em;
+    margin-bottom: 0.5em;
+    cursor: pointer;
 }
 
+.nav-item:hover,
+div > a:hover,
+.nav-item:active,
+div > a:active {
+    background-color: #D39A15;
+}
+
+
+
+.nav-item a {
+    text-decoration: none;
+    color: black;
+}
 
 img {
     display: block;
@@ -32,7 +54,7 @@ img {
 div > a {
     font-size: 1.25rem;
     display: inline-block;
-    background-color: goldenrod;
+    background-color: #E9AE23;
     text-decoration: none;
     border-radius: 0.5em;
     color: black;
